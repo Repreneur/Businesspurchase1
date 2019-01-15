@@ -7,3 +7,4 @@ To do to close transaction
 To do for a successful and limited transition
 1. Set period of transition
 2. Set the type of involvement and decision making
+3. Make a will
